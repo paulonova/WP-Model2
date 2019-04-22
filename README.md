@@ -1,5 +1,5 @@
-# Pigment - Wordpress Application
-This is a intro dummy text that very shortly can describe this repository. Pigment website consits of: 
+# Model - Wordpress Application
+This is a intro dummy text that very shortly can describe this repository. Project website consits of: 
 * Static Pages with basic wysiwyg content
 * No fancy script running in the background that a dev needs to be aware of
 
